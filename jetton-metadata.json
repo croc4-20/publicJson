@@ -1,0 +1,7 @@
+{
+  "name": "Pixel Token",
+  "symbol": "PXL",
+  "description": "This token is used for a variety of usages on pixel war & its mini-games, live on TON only.",
+  "decimals": 9,
+  "totalSupply": 1000000
+}
