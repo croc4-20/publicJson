@@ -1,7 +1,8 @@
 {
-  "name": "Pixel Token",
+  "name": "Pixel Proj",
+  "description": "Token for the Pixel Projekt",
   "symbol": "PXL",
-  "description": "This token is used for a variety of usages on pixel war & its mini-games, live on TON only.",
-  "decimals": 9,
-  "totalSupply": 1000000
+  "decimals": 10,
+  "totalSupply": 1000000,
+  "image": "https://www.svgrepo.com/download/483336/coin-vector.svg"
 }
