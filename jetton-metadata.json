@@ -3,6 +3,5 @@
   "description": "Token for the Pixel Projekt",
   "symbol": "PXL",
   "decimals": 10,
-  "totalSupply": 1000000,
   "image": "https://www.svgrepo.com/download/483336/coin-vector.svg"
 }
